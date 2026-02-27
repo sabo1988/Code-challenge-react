@@ -1,0 +1,8 @@
+Artist|Title|Usages|StartDate|EndDate
+Metallica|Black Album|digitalad, sming|2012-01-01|2012-12-31
+Adele|Hello||2011-11-01|2013-01-01
+Coldplay|Yellow|streamisdsadsng|2010/01/01|2014-12-31
+Taylor Swift|Love Story|digitalsdfssdfsadf download, streamings|2012-15-01|
+Drake|One Dance|streamingfsdfsa|2012-02-01|2011-12-31
+Ed Sheeran|Shape of You|vinyl|2012-01-01|
+Bruno Mars

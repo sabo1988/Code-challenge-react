@@ -1,0 +1,10 @@
+Partner|Usage
+ITunes|digital download
+YouTube|streaming
+Spotify|streaming
+Amazon|digital download
+AppleMusic|streaming
+GooglePlay|digital download
+Tidal|streaming
+Deezer|streaming
+Napster|digital download

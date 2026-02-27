@@ -1,0 +1,9 @@
+Partner|Usage
+ITunes|unkwon
+YouTube|
+Spotify|stream
+Amazon|digital-download
+AppleMusic|Streaming
+GooglePlay|123
+Tidal
+Deezer|vinyl

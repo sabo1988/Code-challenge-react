@@ -1,0 +1,9 @@
+Artist|Title|Usages|StartDate|EndDate
+Metallica|Black Album|digital download, streaming|2012-01-01|2012-12-31
+Metallica|Ride The Lightning|streaming|2012-01-01|
+Adele|Hello|digital download|2011-11-01|2013-01-01
+Adele|Skyfall|digital download, streaming|2012-10-01|
+Coldplay|Yellow|streaming|2010-01-01|2014-12-31
+Coldplay|Fix You|digital download|2012-03-01|2012-09-30
+Taylor Swift|Love Story|digital download, streaming|2012-01-15|
+Drake|One Dance|streaming|2012-02-01|2012-12-31
