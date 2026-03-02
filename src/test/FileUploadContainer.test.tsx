@@ -33,4 +33,33 @@ describe("FileUploadContainer", () => {
 
     expect(state.parseFiles).toHaveBeenCalledTimes(1)
   })
+
+  it("shows success alert when uploadSuccess has a message", () => {
+    const state = rightsStoreState({
+      uploadSuccess: "Files uploaded successfully",
+      error: "",
+    })
+    vi.mocked(useRightsStore).mockReturnValue(state)
+
+    render(<FileUploadContainer />)
+
+    const alert = screen.getByRole("alert")
+    expect(alert).toHaveTextContent("Contracts uploaded successfully!")
+
+  })
+
+  it("shows error alert when error has a message", () => {
+    const state = rightsStoreState({
+      uploadSuccess: "",
+      error: "Invalid file format",
+    })
+    vi.mocked(useRightsStore).mockReturnValue(state)
+
+    render(<FileUploadContainer />)
+
+    expect(screen.getByText(/uploaded successfully/i)).toBeInTheDocument()
+
+  })
 })
+
+
